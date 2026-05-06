@@ -17,6 +17,7 @@
 
 ---
 # Meu sonho é:
-Ir para Paris
-Ir para a Italia
-Ir para Nova York
+- Ir para Paris🥐
+- Ir para a Italia🍝
+- Ir para Nova York✈️
+- Ir para a Coreia🍥
