@@ -21,3 +21,5 @@
 - Ir para a Italia🍝
 - Ir para Nova York✈️
 - Ir para a Coreia🍥
+- Ser rica💵
+  
