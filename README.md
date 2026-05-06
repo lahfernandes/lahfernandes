@@ -22,4 +22,5 @@
 - Ir para Nova York✈️
 - Ir para a Coreia🍥
 - Ser rica💵
+- Ter uma família❤️
   
